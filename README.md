@@ -1,6 +1,6 @@
 ## Hi I'm Shresth <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Shresth a student that is interested in programming languages and I am not going to stop untill i learn it all, I have experiece with JavaScript, C, Python and Rust.
+I'm Shresth a student that is interested in programming I am trying to learn as much languages as i can, I have experiece with JavaScript, C, Python and Rust.
 
 - 👀 I’m working on improving my Rust and Python skills.
 - 🌱 I’m currently learning everything 😆
