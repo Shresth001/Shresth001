@@ -3,14 +3,18 @@
 I'm a student that is interested in programming I am trying to learn as much languages as i can, I have experiece with C, Python and Rust.
 
 - 👀 I’m working on improving my Rust and Python skills.
-- 🌱 I’m currently learning everything 😆
+- 🌱 I’m currently learning everything 😆.
 - 💞️ I’m looking to collaborate with awesome people like you.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 To contact me, mail on shresthpratap1@gmail.com
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 📫 To contact me, just mail on shresthpratap1@gmail.com
 
+#### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shresth001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### My GitHub Stats:
 [![Shresth's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Shresth001&show_icons=true&theme=radical)](https://github.com/Shresth001github-readme-stats)
+
+#### 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
