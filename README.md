@@ -16,5 +16,5 @@ I'm a student that is interested in programming I am trying to learn as much lan
 #### My GitHub Stats:
 [![Shresth's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Shresth001&show_icons=true&theme=radical)](https://github.com/Shresth001github-readme-stats)
 
-#### Here is a random joke that'll make you laugh 😂!
+#### Here is a random joke that'll make you laugh!😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
